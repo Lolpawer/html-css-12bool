@@ -1,0 +1,16 @@
+.box {
+    background-color: #006eff;
+    height: 50px;
+    border: 2px solid #fff;
+}
+
+.nest {
+    align-items: center;
+    padding: 10px;
+}
+
+.nested {
+    background-color: #00e552;
+    height: 30px;
+    border: 2px solid #006eff;
+}
