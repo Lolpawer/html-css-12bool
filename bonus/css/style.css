@@ -1,0 +1,49 @@
+.half {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+
+.px {
+    height: 50px;
+}
+
+.darkgray {
+    background-color: #252222;
+}
+
+.gray {
+    background-color: #424242;
+}
+
+.darkerpink {
+    background-color: #603830;
+}
+
+.darkpink {
+    background-color: #ac704a;
+}
+
+.pink {
+    background-color: #d8a97f;
+}
+
+.white {
+    background-color: #e8e8e8;
+}
+
+.lightgray {
+    background-color: #948c7f;
+}
+
+.darkermagenta {
+    background-color: #4d172b;
+}
+
+.darkmagenta {
+    background-color: #601130;
+}
+
+.magenta {
+    background-color: #883050;
+}
